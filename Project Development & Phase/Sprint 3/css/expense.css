@@ -1,0 +1,11 @@
+.container{
+    padding: 4rem 0rem;
+}
+
+.card-footer button:hover{
+    background-color: green;
+}
+
+a{
+    text-decoration: none;
+}
